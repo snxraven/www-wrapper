@@ -1,0 +1,9 @@
+Package: com.snxraven.www-wrapper
+Name: www-wrapper
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: Raven Scott
+Author: Raven Scott
+Section: Utilities
+Version: 0.0.1-3+debug
+Installed-Size: 144
